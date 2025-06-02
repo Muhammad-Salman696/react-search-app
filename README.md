@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Search App with LocalStorage
 
 This is a simple React application that allows users to search through a list of items using a search input. The search term is stored in `localStorage` using a custom hook for persistence across page reloads.
